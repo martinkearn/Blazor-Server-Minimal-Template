@@ -13,8 +13,8 @@
     <ProjectGuid>{96C0E556-7B4A-4FCF-AF75-C5B6ABC66B72}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BlazorServerMinimalVsix</RootNamespace>
-    <AssemblyName>BlazorServerMinimalVsix</AssemblyName>
+    <RootNamespace>BlazorServerMinimal</RootNamespace>
+    <AssemblyName>BlazorServerMinimal</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <GeneratePkgDefFile>true</GeneratePkgDefFile>
     <UseCodebase>true</UseCodebase>
