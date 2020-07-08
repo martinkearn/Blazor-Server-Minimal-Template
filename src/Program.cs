@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace BlazorServerMinimal
+namespace BlazorServerMinimalTemplate
 {
     public class Program
     {
