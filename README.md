@@ -1,4 +1,4 @@
-# Blazor-Server-Minimal-Template
+# Blazor Server Minimal Template
 A Visual Studio 2019 template that creates a minimal Blazor Server project with a lot of the example code removed. This includes, but is not limited to removal of the following default artifacts:
 - Counter page
 - Weather forecast service and page
@@ -17,3 +17,4 @@ Some fundamental features are left intact such as the default error pages, a bas
 4. Search for "Blazor"
 5. Choose "Blazor Server Minimal"
 6. Set the project name, location etc and create the project as usual
+7. Sometimes Visual Studio does not replace the namespace correctly which is `BlazorServerMinimalTemplate` by default. If this happens, just replace it with your own namespace manually. This usually occrs in `_Imports.razor`
