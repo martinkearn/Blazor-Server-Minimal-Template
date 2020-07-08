@@ -49,7 +49,7 @@
     <Compile Include="BlazorServerMinimalVsixPackage.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ProjectTemplates\Blazor Server Minimal.zip">
+    <Content Include="ProjectTemplates\BlazorServerMinimalTemplate.zip">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
