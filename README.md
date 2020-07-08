@@ -8,7 +8,7 @@ A Visual Studio 2019 template that creates a minimal Blazor Server project with 
 - Navigation
 - Most of the default `site.css`
 
-Some fundamental features are left intact such as the default error pages, a basic layout and a minimal `site.css` as well as the typical `startup.cs` functionality. What you are left with is a clean, minimal Blazor server project which you can use as a starting point to build you preferred functionality.
+Some fundamental features are left intact such as the default error pages, a basic layout and a minimal `site.css` as well as the typical `startup.cs` functionality. What you are left with is a clean, minimal Blazor server project which you can use as a starting point to build your preferred functionality.
 
 ## Use the template
 1. Install the [BlazorServerMinimal.vsix](BlazorServerMinimal.vsix) file.
