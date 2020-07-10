@@ -17,4 +17,4 @@ Some fundamental features are left intact such as the default error pages, a bas
 4. Search for "Blazor"
 5. Choose "Blazor Server Minimal"
 6. Set the project name, location etc and create the project as usual
-7. Sometimes Visual Studio does not replace the namespace correctly which is `BlazorServerMinimalTemplate` by default. If this happens, just replace it with your own namespace manually. This usually occrs in `_Imports.razor`
+7. Visual Studio does not replace the namespace correctly in `_Imports.razor` which prevents the application from building, presumably because this is a markup file rather than compiled code. To correct this, just replace `BlazorServerMinimalTemplate` with your own namespace manually in `_Imports.razor`.
