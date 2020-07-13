@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerMinimal", "BlazorServerMinimal\BlazorServerMinimal.csproj", "{96C0E556-7B4A-4FCF-AF75-C5B6ABC66B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerMinimalTemplate", "BlazorServerMinimalTemplate\BlazorServerMinimalTemplate.csproj", "{BCEBF82A-FFCA-4DB6-9A85-7ADD6F419096}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorServerMinimalTemplate", "BlazorServerMinimalTemplate\BlazorServerMinimalTemplate.csproj", "{BCEBF82A-FFCA-4DB6-9A85-7ADD6F419096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorServerDefaultTemplate_v3-1-6", "BlazorServerDefaultTemplate_v3-1-6\BlazorServerDefaultTemplate_v3-1-6.csproj", "{8868A3E5-2793-4821-A051-C9A38B2309CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{BCEBF82A-FFCA-4DB6-9A85-7ADD6F419096}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCEBF82A-FFCA-4DB6-9A85-7ADD6F419096}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCEBF82A-FFCA-4DB6-9A85-7ADD6F419096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8868A3E5-2793-4821-A051-C9A38B2309CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8868A3E5-2793-4821-A051-C9A38B2309CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8868A3E5-2793-4821-A051-C9A38B2309CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8868A3E5-2793-4821-A051-C9A38B2309CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
